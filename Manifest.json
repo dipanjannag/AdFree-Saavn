@@ -15,7 +15,7 @@
             "http://*.saavn.com/*"
             ],
         "js": ["jquery.js","content.js"],
-        "run_at": "document_end"         // pay attention to this line
+        "run_at": "document_end"         
         }
     ], 
     "manifest_version":2
